@@ -1,5 +1,2 @@
 #!bin/bash
-echo "school
-
-
-c
+echo "The school is open!"
